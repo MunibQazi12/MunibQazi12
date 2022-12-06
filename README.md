@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 
-<p>I am a Senior Frontend Developer | Consulant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan :pakistan:</p>
+<p>I am a Senior Frontend Developer | Consulant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United States of America https://www.stevenskelton.ca/flag-icon/png/16/country-4x3/us.png</p>
 - :telescope: I’m working as a Principle Software Engineer, contributing and lead teams to build complex web applications, projects and products.
 
 - :seedling: Exploring New Tools and technologies relating to Frontend development.
