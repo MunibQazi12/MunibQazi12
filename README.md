@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 
-<p>I am a Senior Frontend Developer | Consulant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+<p>I am a Senior Full-stack Developer | Consulant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 - :telescope: I’m working as a Principle Software Engineer, contributing and lead teams to build complex web applications, projects and products.
 
 - :seedling: Exploring New Tools and technologies relating to Frontend development.
