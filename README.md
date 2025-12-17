@@ -98,8 +98,6 @@ These projects reflect real team work, not demos.
 
 <h2>Tech I use daily</h2>
 
-<h2>Tech I use daily</h2>
-
 <p><strong>Frontend</strong></p>
 <p>
 React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
