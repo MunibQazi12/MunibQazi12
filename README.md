@@ -115,7 +115,7 @@ https://github.com/MunibQazi12
 </p>
 
 <p>
-LinkedIn: add your LinkedIn link here
+LinkedIn: https://www.linkedin.com/in/munibqazii/
 </p>
 
 
