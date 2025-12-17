@@ -13,12 +13,12 @@
 ### What I build ###
 <p>I design and build complex business applications and scalable ecommerce platforms.</p>
 
-<p>I focus on systems that: </p>
-I focus on systems that:
-- Handle real users
-- Manage real data
-- Manage real data
-<p></p>I work end-to-end, from architecture to deployment.
+<ul>I focus on systems that: </ul>
+
+<li>• Handle real users</li>
+<li>• Manage real data</li>
+<li>• Manage real data</li>
+<p>I work end-to-end, from architecture to deployment.</p>
 
 
 
