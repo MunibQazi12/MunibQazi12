@@ -9,15 +9,13 @@ Senior Full-stack Developer | Shopify & Ecommerce Specialist
 
 <h2>What I build</h2>
 
-<p>
+<p style="margin-bottom: 0;">
 I design and build <strong>complex business applications</strong> and
 <strong>scalable ecommerce platforms</strong>.
 </p>
 
-<p>
-My work focuses on systems that handle real users, real data,
-and long-term growth.
-I work end-to-end, from architecture to deployment.
+<p style="margin-top: 0;>
+My work focuses on systems that handle real users, real data, and long-term growth. I work end-to-end, from architecture to deployment.
 </p>
 
 <hr>
