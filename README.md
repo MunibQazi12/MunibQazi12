@@ -14,7 +14,7 @@ I design and build <strong>complex business applications</strong> and
 <strong>scalable ecommerce platforms</strong>.
 </p>
 
-<p style="margin-top: 0;>
+<p style="margin-top: 0;">
 My work focuses on systems that handle real users, real data, and long-term growth. I work end-to-end, from architecture to deployment.
 </p>
 
