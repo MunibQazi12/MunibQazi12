@@ -5,8 +5,6 @@
 Senior Full-stack Developer | Shopify & Ecommerce Specialist
 </p>
 
-<hr>
-
 <h2>What I build</h2>
 
 <p style="margin-bottom: 0;">
