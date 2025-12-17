@@ -98,34 +98,21 @@ These projects reflect real team work, not demos.
 
 <h2>Tech I use daily</h2>
 
-<p><strong>Frontend</strong></p>
-<p>
-React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
+<p><strong>Frontend: </strong>React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
 </p>
 
-<p><strong>Backend</strong></p>
-<p>
-Node.js · Nest.js · REST APIs · Authentication · Background Jobs
+<p><strong>Backend: </strong>Node.js · Nest.js · REST APIs · Authentication · Background Jobs
 </p>
 
-<p><strong>Ecommerce & Shopify</strong></p>
-<p>
-Shopify · Shopify 2.0 · Liquid · Headless Shopify · Storefront API · Admin Customization
+<p><strong>Ecommerce & Shopify: </strong> Shopify · Shopify 2.0 · Liquid · Headless Shopify · Storefront API · Admin Customization
 </p>
 
-<p><strong>Database</strong></p>
-<p>
-PostgreSQL · MongoDB · MySQL · Redis
+<p><strong>Database: </strong> PostgreSQL · MongoDB · MySQL · Redis
 </p>
 
-<p><strong>Mobile</strong></p>
-<p>
-React Native · Shared Web and Mobile Logic
-</p>
+<p><strong>Mobile: </strong> React Native · Shared Web and Mobile Logic </p>
 
-<p><strong>Tools</strong></p>
-<p>
-Git · GitHub · CI/CD · Docker
+<p><strong>Tools: </strong>Git · GitHub · CI/CD · Docker
 </p>
 
 <hr>
