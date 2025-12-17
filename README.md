@@ -55,8 +55,6 @@ I focus on ecommerce systems that scale, convert, and remain stable.
   <li>Production-ready UI and state handling</li>
 </ul>
 
-<hr>
-
 <h2>How I work</h2>
 <ul>
   <li>I think in systems, not pages</li>
@@ -68,8 +66,6 @@ I focus on ecommerce systems that scale, convert, and remain stable.
 <p>
 Good software should be easy to extend and safe to change.
 </p>
-
-<hr>
 
 <h2>Selected work</h2>
 
