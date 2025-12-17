@@ -13,13 +13,13 @@
 ### What I build ###
 <p>I design and build complex business applications and scalable ecommerce platforms.</p>
 
-<p>I focus on systems that: 
+<p>I focus on systems that: </p>
 I focus on systems that:
 - Handle real users
 - Manage real data
 - Manage real data
-I work end-to-end, from architecture to deployment.
-</p>
+<p></p>I work end-to-end, from architecture to deployment.
+
 
 
 <p>I am a Senior Full-stack Developer | Consulant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
