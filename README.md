@@ -84,8 +84,6 @@ My pinned repositories demonstrate:
 These projects reflect real team work, not demos.
 </p>
 
-<hr>
-
 <h2>Tech I use daily</h2>
 
 <p><strong>Frontend: </strong>React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
