@@ -18,8 +18,6 @@ I design and build <strong>complex business applications</strong> and
 My work focuses on systems that handle real users, real data, and long-term growth. I work end-to-end, from architecture to deployment.
 </p>
 
-<hr>
-
 <h2>Core expertise</h2>
 
 <h3>Full-stack web</h3>
